@@ -1,3 +1,9 @@
 h1{
     color: blue;
+    text-decoration: line-through;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 500;
+    font-style: italic;
+    font-stretch: condensed;
 }
